@@ -9,13 +9,13 @@ FileExtensions:
 - gpn
 - untis
 ProductCode: Untis 2026
-ReleaseDate: 2025-07-30
+ReleaseDate: 2025-12-10
 Installers:
 - Architecture: x86
   InstallerUrl: https://www.untis.at/fileadmin/downloads/2026/SetupUntis2026.exe
-  InstallerSha256: 5C057EACE575BFF90EAFE4B2EB098E77FF6756ED027ADB69D0EFC7050DC203C7
+  InstallerSha256: E98CFAF6448A930A58ECDC6B2E9B09D8FFCC0D80D676513FB313153AFDDD5439
 - Architecture: x64
   InstallerUrl: https://www.untis.at/fileadmin/downloads/2026/SetupUntis2026-x64.exe
-  InstallerSha256: 04B1CA52BB0159A9EACA30D68E7A705E6136278EA6C4FD7170D8E7BFA0566C3E
+  InstallerSha256: B2BA05095FEAF0515C494581E1A0095B046F80931568FCFB10806A8513F454BD
 ManifestType: installer
 ManifestVersion: 1.10.0
